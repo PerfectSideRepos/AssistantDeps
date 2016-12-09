@@ -1,1 +1,1 @@
-{"name":"Postgres-StORM","icon":"","id":"265F0FF4-C177-4ACA-9F07-02A6E6CB6B32","version":{"lowerBound":"0.0.0","upperBound":"0.0.9223372036854775807"},"__id":"_PAJSONObjectRegistry_SPMDependency","category":"ORM","url":"https://github.com/SwiftORM/Postgres-StORM.git"}
+{"name":"Postgres-StORM","icon":"postgres","id":"265F0FF4-C177-4ACA-9F07-02A6E6CB6B32","version":{"lowerBound":"0.0.0","upperBound":"0.0.9223372036854775807"},"__id":"_PAJSONObjectRegistry_SPMDependency","category":"ORM","url":"https://github.com/SwiftORM/Postgres-StORM.git"}
